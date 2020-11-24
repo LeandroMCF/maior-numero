@@ -11,3 +11,16 @@ C:\Users\leand\OneDrive\Área de Trabalho\maior-numero\obj\Debug\netcoreapp3.1\m
 C:\Users\leand\OneDrive\Área de Trabalho\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.dll
 C:\Users\leand\OneDrive\Área de Trabalho\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.pdb
 C:\Users\leand\OneDrive\Área de Trabalho\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\bin\Debug\netcoreapp3.1\maior-numero.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\bin\Debug\netcoreapp3.1\maior-numero.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\bin\Debug\netcoreapp3.1\maior-numero.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\bin\Debug\netcoreapp3.1\maior-numero.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\bin\Debug\netcoreapp3.1\maior-numero.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\bin\Debug\netcoreapp3.1\maior-numero.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\maior-numero\obj\Debug\netcoreapp3.1\maior-numero.genruntimeconfig.cache

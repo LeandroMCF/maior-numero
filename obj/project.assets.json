@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\maior-numero\\maior-numero.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\maior-numero\\maior-numero.csproj",
       "projectName": "maior-numero",
-      "projectPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\maior-numero\\maior-numero.csproj",
+      "projectPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\maior-numero\\maior-numero.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\maior-numero\\obj\\",
+      "outputPath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\maior-numero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

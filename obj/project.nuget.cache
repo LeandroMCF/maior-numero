@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+pAIR5c35TVq2Zx0mgjWqx8zJYVQU5wvObEokf/Kgos10/j7vNJIZ/ey2u0zMNYB12IXOXt6RkvUYtT/lHo/eg==",
+  "dgSpecHash": "T71pCwumVsfyNzbbmTDAAtk5F7IjHWTsI6GZ+WqaTW+iqd02npH3Ax229lghAHznjTZcQ7cWoLcMTv0hSfVxow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\maior-numero\\maior-numero.csproj",
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\maior-numero\\maior-numero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
   ],
